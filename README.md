@@ -1,0 +1,4 @@
+fakeFAQ
+=======
+
+fake FAQ trick
