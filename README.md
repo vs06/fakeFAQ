@@ -12,3 +12,5 @@ Fake FAQ Trick
         Complete the question
         
 Based on: http://www.br-c.org/doku.php?id=programas_uteis#leitura_de_senha_em_c
+
+May The Source be with You.
